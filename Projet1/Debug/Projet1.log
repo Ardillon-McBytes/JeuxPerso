@@ -1,0 +1,9 @@
+﻿  Jeux.cpp
+d:\prog\session 2\prog\fonction\saisiesecurisee.h(181): warning C4244: 'initialisation' : conversion de 'std::streamoff' en 'int', perte possible de données
+d:\prog\projet perso\include\client.h(32): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2238): note: voir la déclaration de 'gethostbyname'
+d:\prog\projet perso\include\client.h(33): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: voir la déclaration de 'inet_addr'
+d:\prog\projet perso\include\client.h(13): warning C4101: 'message' : variable locale non référencée
+  Projet1.vcxproj -> D:\Prog\Projet Perso\Projet1\Debug\Projet1.exe
+  Projet1.vcxproj -> D:\Prog\Projet Perso\Projet1\Debug\Projet1.pdb (Partial PDB)
